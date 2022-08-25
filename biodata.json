@@ -1,0 +1,22 @@
+{
+    "biodata": [
+        {
+            "nama": "san",
+            "alamat": "madura",
+            "pekerjaan": "backend engineer",
+            "alasan": "diminta atasan"
+        },
+        {
+            "nama": "wandy",
+            "alamat": "bandung barat",
+            "pekerjaan": "backend engineer",
+            "alasan": "hobi"
+        },
+        {
+            "nama": "iqbal",
+            "alamat": "depok",
+            "pekerjaan": "frontend engineer",
+            "alasan": "to be fullstack"
+        }
+    ]
+}
